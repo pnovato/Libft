@@ -7,7 +7,7 @@ A **Libft** é uma biblioteca personalizada desenvolvida em C como parte do curr
 
 1. **Clona o repositório**:
    ```bash
-   git clone https://github.com/teu-usuario/libft.git
+   git clone https://github.com/pnovato/libft.git
    cd libft
 2. **Compila a biblioteca:**
    ```bash
