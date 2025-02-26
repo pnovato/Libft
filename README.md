@@ -3,7 +3,7 @@
 A **Libft** é uma biblioteca personalizada desenvolvida em C como parte do currículo da 42 School. Este projeto consiste na recriação de funções essenciais da biblioteca padrão do C (`libc`), além da implementação de novas funções utilitárias para manipulação de strings, memória e listas ligadas. O objetivo é consolidar o conhecimento em C, reforçar boas práticas de programação e criar uma biblioteca estática reutilizável para futuros projetos.
 
 
-## 🚀 Como Usar
+## Como Usar
 
 1. **Clona o repositório**:
    ```bash
@@ -14,7 +14,7 @@ A **Libft** é uma biblioteca personalizada desenvolvida em C como parte do curr
    make
 
 
-## 🛠️ Comandos do Makefile
+## 🛠Comandos do Makefile
 - make: Compila a biblioteca e gera o ficheiro libft.a.
 - make clean: Remove os ficheiros objeto gerados durante a compilação.
 - make fclean: Remove os ficheiros objeto e a biblioteca libft.a.
